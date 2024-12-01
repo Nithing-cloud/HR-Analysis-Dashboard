@@ -3,6 +3,8 @@
 [Employee Dataset](https://drive.google.com/file/d/1iPqAGso8tA1GmkblGsO4jq-YC67Wvw9c/view?usp=drive_link)
 
 ---
+![DashboardOverview](https://i.imgur.com/RoWIFoV.png)
+
 
 ## Overview  
 
@@ -34,7 +36,7 @@ This repository contains an analysis of employee data that explores various aspe
 5. **Insights Generation**: Insights were drawn from the analysis to formulate actionable recommendations for HR strategies.  
 
 ---  
-
+![Insight](https://i.imgur.com/dXv0vvr.png)
 ## Results Based on Insights  
 
 ### Income & Rate  
