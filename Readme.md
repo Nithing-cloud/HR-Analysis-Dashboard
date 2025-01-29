@@ -6,6 +6,10 @@
 ![DashboardOverview](https://i.imgur.com/RoWIFoV.png)
 
 
+
+## [LIVE DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiN2RlNTZkNDItYWY1Ny00MTdkLWE3NjgtZTI4ZjAzNzk4NGU0IiwidCI6IjFjNzJhMjQ3LWQwZTktNDc2ZC04ZGY2LWY2NDExY2Y3NmM2ZSJ9)  << Here
+
+
 ## Overview  
 
 This repository contains an analysis of employee data that explores various aspects of workforce demographics, income levels, performance metrics, and attrition rates. Insights garnered from the analysis can guide HR strategies, retention efforts, and workforce management.  
