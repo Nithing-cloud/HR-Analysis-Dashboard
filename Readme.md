@@ -1,4 +1,4 @@
-# Employee/HR Data Analysis
+# Employee/HR Analysis
 
 [Employee Dataset](https://drive.google.com/file/d/1iPqAGso8tA1GmkblGsO4jq-YC67Wvw9c/view?usp=drive_link)
 
